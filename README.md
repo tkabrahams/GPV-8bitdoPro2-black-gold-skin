@@ -6,4 +6,5 @@ To use it, simply create a new Browser source on your OBS with the following URL
 TBD
 
 Sample:
+
 ![image](sample.jpg)
